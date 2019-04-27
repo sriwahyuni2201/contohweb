@@ -1,21 +1,21 @@
 nav {
-    background-color: chartreuse;
+    background-color: darkgoldenrod;
     margin-bottom: 150px;
 }
 
 
 .navbar-brand.warna{
-    background-color: darkgoldenrod;
+    background-color: palegreen;
     color:crimson;
     
     
 }
 
 .container{
-    background-color: brown;
+    background-color: forestgreen;
 }
 
 #top-banner{
-    width: 90%;
-    height: 160px;
+    width: 50%;
+    height: 100px;
 }
