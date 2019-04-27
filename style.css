@@ -16,6 +16,10 @@ nav {
 }
 
 #top-banner{
-    width: 50%;
+    width: 100%;
     height: 100px;
+}
+.img-fliud{
+    width:100%x;
+    height:100%;
 }
