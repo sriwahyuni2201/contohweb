@@ -16,10 +16,19 @@ nav {
 }
 
 #top-banner{
+<<<<<<< HEAD
     width: 100%;
     height: 100px;
 }
 .img-fliud{
     width:100%x;
     height:100%;
+=======
+    width: 90%;
+    height: 160px;
+}
+
+.profile{
+    
+>>>>>>> 2b11bff0f734eb8393db384ad3358d7f9bb37852
 }
